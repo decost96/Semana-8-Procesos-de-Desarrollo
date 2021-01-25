@@ -1,0 +1,4 @@
+C:\Users\DarkSlayer\source\repos\Semana 18-01-2021\JustMockTest\JustMockTest\obj\Debug\netcoreapp3.1\JustMockTest.csprojAssemblyReference.cache
+C:\Users\DarkSlayer\source\repos\Semana 18-01-2021\JustMockTest\JustMockTest\obj\Debug\netcoreapp3.1\JustMockTest.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\Semana 18-01-2021\JustMockTest\JustMockTest\obj\Debug\netcoreapp3.1\JustMockTest.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\Semana 18-01-2021\JustMockTest\JustMockTest\obj\Debug\netcoreapp3.1\JustMockTest.csproj.CoreCompileInputs.cache

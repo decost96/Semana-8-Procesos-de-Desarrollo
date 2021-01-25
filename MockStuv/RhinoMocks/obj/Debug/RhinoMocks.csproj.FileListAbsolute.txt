@@ -1,0 +1,2 @@
+C:\Users\DarkSlayer\source\repos\Semana 18-01-2021\MockStuv\RhinoMocks\obj\Debug\RhinoMocks.csprojAssemblyReference.cache
+C:\Users\DarkSlayer\source\repos\Semana 18-01-2021\MockStuv\RhinoMocks\obj\Debug\RhinoMocks.csproj.CoreCompileInputs.cache

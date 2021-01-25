@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DarkSlayer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DarkSlayer\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
